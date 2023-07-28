@@ -1,4 +1,6 @@
 /*
+Original file from LLama2
+
 Inference for Llama-2 Transformer model in pure C.
 
 Example compile: (see README for more details)
