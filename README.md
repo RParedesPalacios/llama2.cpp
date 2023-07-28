@@ -2,7 +2,9 @@
 
 Forked from Karpathy repo [llama2.c](https://github.com/karpathy/llama2.c)
 
-I implementled a modification over llama2.c to use Eigen for fast matrix multiplication. Eigen requires C++. Then to compile use:
+I implementled a modification over llama2.c to use Eigen for fast matrix multiplication. I did it trying to minimze the modifications over the original C version. 
+
+Eigen requires C++. Then to compile use:
 
 
 ```bash
